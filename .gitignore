@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-
+client
+asdasda
 
 # local env files
 .env.local
